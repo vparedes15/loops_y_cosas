@@ -8,5 +8,9 @@ int main (void)
   std::cin >>valor2;
   std::cout <<"suma\n";
   std::cout <<valor1+valor2<< "\n";
+  std::cout <<"resta\n";
+  std::cout <<valor1-valor2<< "\n";
+  std::cout <<"multiplicación\n";
+  std::cout <<valor1*valor2<< "\n";
   return 0;
 }
